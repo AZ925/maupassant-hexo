@@ -6,7 +6,7 @@
 
 [Preview](https://www.haomwei.com)｜[中文文档](https://www.haomwei.com/technology/maupassant-hexo.html)
 
-A simple Hexo template with great performance on different devices, ported from a Typecho theme by [Cho](https://github.com/pagecho/maupassant/), forked and modified from [icylogic](https://github.com/icylogic/maupassant-hexo/).
+A simple Hexo template with great performance on different devices, ported from a Typecho theme by [Cho](https://github.com/pagecho/maupassant/), forked and modified from [tufu9441](https://github.com/tufu9441/maupassant-hexo/).
 
 ![template preview](http://ooo.0o0.ooo/2015/10/24/562b5be12177e.jpg
  "Maupassant template preview")
@@ -15,7 +15,7 @@ A simple Hexo template with great performance on different devices, ported from 
 Install theme and renderers:
 
 ```shell
-$ git clone https://github.com/tufu9441/maupassant-hexo.git themes/maupassant
+$ git clone https://github.com/az925/maupassant-hexo.git themes/maupassant
 $ npm install hexo-renderer-pug --save
 $ npm install hexo-renderer-sass --save
 ```
